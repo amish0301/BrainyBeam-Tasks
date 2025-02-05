@@ -1,5 +1,8 @@
 {
   "devDependencies": {
     "react-icons": "^5.4.0"
+  },
+  "dependencies": {
+    "react-toastify": "^11.0.3"
   }
 }
